@@ -5,4 +5,4 @@ TOKEN = config("TOKEN")
 bot = Bot(TOKEN)
 dp = Dispatcher(bot=bot)
 
-ADMIN = 715766595
+ADMIN = your admin id
